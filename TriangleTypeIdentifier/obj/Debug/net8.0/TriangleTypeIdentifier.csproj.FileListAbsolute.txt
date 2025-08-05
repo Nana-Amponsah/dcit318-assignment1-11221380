@@ -12,3 +12,4 @@
 /Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.pdb
 /Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.genruntimeconfig.cache
 /Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/ref/TriangleTypeIdentifier.dll
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.sourcelink.json

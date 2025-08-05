@@ -12,3 +12,4 @@
 /Users/amponsahappiah/dcit318-assignment1-11221380/GradeCalculator/obj/Debug/net8.0/GradeCalculator.pdb
 /Users/amponsahappiah/dcit318-assignment1-11221380/GradeCalculator/obj/Debug/net8.0/GradeCalculator.genruntimeconfig.cache
 /Users/amponsahappiah/dcit318-assignment1-11221380/GradeCalculator/obj/Debug/net8.0/ref/GradeCalculator.dll
+/Users/amponsahappiah/dcit318-assignment1-11221380/GradeCalculator/obj/Debug/net8.0/GradeCalculator.sourcelink.json

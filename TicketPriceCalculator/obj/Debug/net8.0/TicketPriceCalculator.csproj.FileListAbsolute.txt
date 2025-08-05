@@ -12,3 +12,4 @@
 /Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.pdb
 /Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.genruntimeconfig.cache
 /Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/ref/TicketPriceCalculator.dll
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.sourcelink.json
