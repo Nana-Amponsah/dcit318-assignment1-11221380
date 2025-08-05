@@ -1,0 +1,14 @@
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/bin/Debug/net8.0/TriangleTypeIdentifier
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/bin/Debug/net8.0/TriangleTypeIdentifier.deps.json
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/bin/Debug/net8.0/TriangleTypeIdentifier.runtimeconfig.json
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/bin/Debug/net8.0/TriangleTypeIdentifier.dll
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/bin/Debug/net8.0/TriangleTypeIdentifier.pdb
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.AssemblyInfoInputs.cache
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.AssemblyInfo.cs
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.dll
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/refint/TriangleTypeIdentifier.dll
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.pdb
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/TriangleTypeIdentifier.genruntimeconfig.cache
+/Users/amponsahappiah/dcit318-assignment1-11221380/TriangleTypeIdentifier/obj/Debug/net8.0/ref/TriangleTypeIdentifier.dll

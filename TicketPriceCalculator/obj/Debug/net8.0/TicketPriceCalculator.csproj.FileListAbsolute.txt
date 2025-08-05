@@ -1,0 +1,14 @@
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.deps.json
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.runtimeconfig.json
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.dll
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.pdb
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.AssemblyInfoInputs.cache
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.AssemblyInfo.cs
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.csproj.CoreCompileInputs.cache
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.dll
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/refint/TicketPriceCalculator.dll
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.pdb
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.genruntimeconfig.cache
+/Users/amponsahappiah/dcit318-assignment1-11221380/TicketPriceCalculator/obj/Debug/net8.0/ref/TicketPriceCalculator.dll
